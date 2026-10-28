@@ -64,5 +64,23 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Kopia is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://kopia.io/
+Kopia provides fast, secure, open-source backup software for Windows, macOS, and Linux. It offers encrypted, compressed, and deduplicated backups using cloud storage of your choice, with both GUI and CLI tools. The solution supports scalable architecture for laptops to servers, and includes policies, snapshots, and easy restoration.
+
+**Areas:** Backup · Open-Source · Cloud · Security · Cross-Platform
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://kopia.io/)
+- [Documentation](https://kopia.io/docs/)
+- [Getting started](https://kopia.io/docs/getting-started)
+- [API reference](https://kopia.io/docs/reference/)
+- [Changelog](https://kopia.io/docs/release-notes/)
+- [Privacy policy](https://kopia.io/docs/privacy-policy/)
+
+**APIs profiled:** 1
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/kopia/](https://apis.io/providers/kopia/).
